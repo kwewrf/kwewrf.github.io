@@ -1,1 +1,1 @@
-For JP Visit :  https://kwewrf.github.io/Juicy-Potato/
+<a href="https://kwewrf.github.io/Juicy-Potato/">Juicy Potato </a>
